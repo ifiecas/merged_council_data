@@ -1,12 +1,14 @@
 2018-2023 Waste Data
 2021 Census Data
 2020 Salary Income Data
+2021 Household composition Data
 
-Dataset has 222 columns with key variable "council"
+Dataset has 236 columns with key variable "council"
 
 
 List of columns below:
 
+All columns in the merged CSV:
 financial_year
 council
 population
@@ -18,7 +20,7 @@ kerbside_organics_premises_residential
 kerbside_organics_bin_frequency
 kerbside_organics_fogo_included
 kerbside_organics_collected_tonnes
-Year
+Year_x
 Estimated resident population (no.)
 Population density (persons/km2)
 Estimated resident population - males (no.)
@@ -229,5 +231,19 @@ Mean value of gross capital gains ($)
 Age pension - Department of Veterans' Affairs (no.)
 Service pension - Department of Veterans' Affairs (no.)
 Income support supplement - Department of Veterans' Affairs (no.)
+Year_y
+Lone person households (no.)
+Group households (no.)
+Family households (no.)
+Total households (no.)
+Average household size (no. of persons)
+Couple families with children under 15 and/or dependent students (no.)
+Couple families with non-dependent children only (no.)
+Couple families without children (no.)
+One parent families with children under 15 and/or dependent students (no.)
+One parent families with non-dependent children only (no.)
+Other families (no.)
+Total families (no.)
+Average family size (no. of persons)
 
-Total number of columns: 222
+Total number of columns: 236
